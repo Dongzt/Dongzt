@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dongzt come from Jilin University
-- 📫 How to reach me :983735321@qq.com
+- 📫 How to reach me :dongzt2120@foxmail.com
 
 <!---
 Dongzt/Dongzt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
